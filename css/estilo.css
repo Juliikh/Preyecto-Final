@@ -1,0 +1,121 @@
+h1 {
+  font-size: 99px;
+  background: -webkit-linear-gradient(left top, #F48FB1 , #17202A
+);
+  background: linear-gradient(to bottom right, #F48FB1 , #17202A
+);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+
+}
+ .menu{
+   background-color: black;
+   display: inline;
+   padding: 30px 20px;
+   margin-left: 10%
+
+ }
+ .menu a{
+   text-decoration:none;
+   color: white;
+   padding: 10px 20px;
+   align-items: stretch;
+
+ }
+ .menu a:hover{
+   background-color: pink;
+
+ }
+ .social{
+   margin: 30px 0;
+ }
+ .social a{
+   padding: 0 10px;
+   color: #DC143C  ;
+ }
+ .social a:hover{
+   color: black ;
+ }
+
+ .boton a {
+   text-decoration: none;
+   text-align: center;
+   align-items: right;
+   color: green;
+   background-color: white;
+   line-height: 55px;
+   bottom:30px;
+   border-radius: 50px;
+   height: 55px;
+   width:55px;
+   position: fixed;
+   background-position: right;
+ }
+ .boton a:hover{
+   color:white;
+   background-color: green;
+   transform: scale(1.1);
+   transition: 0.3;
+ }
+
+h2 {
+    margin-bottom: 5px;
+    text-decoration:underline;
+    text-align: center;
+}
+h3 {
+  font-size: 30px;
+  background: -webkit-linear-gradient(left top, #F48FB1 , #17202A
+);
+  background: linear-gradient(to bottom right, #F48FB1 , #17202A
+);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+b {color:#C70039    ;
+  text-decoration:underline;
+  text-transform:capitalize;
+  text-align:center;
+  text-indent:70px;}
+
+}
+section h3{
+  display: block;
+  width: 30%;
+  float: right;
+  margin: 1%;
+  border-style: outset;
+  border-width: 2px;
+  border-color: #FF5733 ;
+  overflow: auto;
+}
+aside{
+  width: 50%;
+  float: right;
+  margin: 1%;
+  padding: 10px;
+  border-style: outset;
+  border-width: 2px;
+  border-color: #FF5733 ;
+  overflow: auto;
+
+}
+
+img {
+
+  height: 200px;
+  width: 400px;
+margin-left: 50px;
+background-position: center;
+}
+
+
+body{
+background-image: url(https://www.xtrafondos.com/wallpapers/anime-chica-estudiante-de-uniforme-3723.jpg);
+background-repeat: no-repeat;
+background-position: center;
+}
